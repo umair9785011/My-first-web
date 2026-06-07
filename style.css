@@ -1,0 +1,35 @@
+body {
+  font-family: sans-serif;
+  background-color: #f5f6fa;
+  color: #2f3640;
+  padding: 20px;
+}
+h1 {
+  color: #3742fa;
+  font-size: 28px;
+}
+h2 {
+  color: #2f3542;
+  border-bottom: 2px solid #ced6e0;
+  padding-bottom: 5px;
+}
+img {
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+  border-radius: 10px;
+}
+a {
+  color: #ff4757;
+  text-decoration: none;
+  font-weight: bold;
+}
+button {
+  background-color: #2ed573;
+  color: #ffffff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  font-size: 14px;
+  margin-right: 10px;
+}
